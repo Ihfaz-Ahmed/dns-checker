@@ -1,5 +1,10 @@
 # DNS Checker
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Next.js](https://img.shields.io/badge/Next.js-13.5.6-black)](https://nextjs.org/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3.0-blue)](https://tailwindcss.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-16.20.0-green)](https://nodejs.org/)
+
 A modern web application built with Next.js, TailwindCSS, and Node's DNS module for checking DNS records of any domain name. This tool allows users to lookup various DNS record types including A, AAAA, MX, TXT, CNAME, NS, and SOA records.
 
 ## Features
