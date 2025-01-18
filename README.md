@@ -4,8 +4,18 @@
 [![Next.js](https://img.shields.io/badge/Next.js-13.5.6-black)](https://nextjs.org/)
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3.0-blue)](https://tailwindcss.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-16.20.0-green)](https://nodejs.org/)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black)](https://dns-checker-topaz.vercel.app/)
 
 A modern web application built with Next.js, TailwindCSS, and Node's DNS module for checking DNS records of any domain name. This tool allows users to lookup various DNS record types including A, AAAA, MX, TXT, CNAME, NS, and SOA records.
+
+## Live Demo
+
+Check out the live demo: [DNS Checker](https://dns-checker-topaz.vercel.app/)
+
+Try it with domains like:
+- google.com
+- github.com
+- vercel.com
 
 ## Features
 
@@ -123,3 +133,15 @@ MIT License - feel free to use this project for your own purposes.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Deployment
+
+This project is deployed on Vercel. To deploy your own instance:
+
+1. Fork this repository
+2. Sign up on [Vercel](https://vercel.com)
+3. Import your forked repository
+4. Vercel will automatically detect it as a Next.js project and configure the build settings
+5. Click "Deploy"
+
+Your application will be automatically deployed and you'll get a unique URL.
